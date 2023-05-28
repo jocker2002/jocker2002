@@ -1,4 +1,4 @@
-### Hi there, I''m jocker2002 👋
+### Hi there, I'm jocker2002 👋
 
 ## My projects
 
@@ -62,6 +62,7 @@ These are skills that I am pretty good at or currently learning
 ## Statistics
 
 ![Jocker2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=jocker2002&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocker2002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jocker2002/jocker2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
