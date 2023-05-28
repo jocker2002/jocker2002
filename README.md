@@ -41,23 +41,23 @@ These are skills that I am pretty good at or currently learning
 ### Databases
 
 <p>
- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/2880px-MySQL_logo.svg.png" alt="mysql" height="45px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postresql" height="45px">
+ <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/2880px-MySQL_logo.svg.png" alt="mysql" height="45px">&nbsp
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postresql" height="45px">&nbsp
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2880px-SQLite370.svg.png" alt="sqlite" height="45px">
 </p>
 
 ### Libraries
 
 <p>
- <img src="https://user-images.githubusercontent.com/66707636/177422209-8223d64b-b119-4153-99b1-31bd67365ebe.svg" alt="bootstrap" height="45px">
+ <img src="https://user-images.githubusercontent.com/66707636/177422209-8223d64b-b119-4153-99b1-31bd67365ebe.svg" alt="bootstrap" height="45px">&nbsp
  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/2880px-JQuery_logo.svg.png" alt="jquery" height="45px">
 </p>
 
 ### Tools
 
 <p>
- <img src="https://user-images.githubusercontent.com/66707636/177422269-5848c9f4-60eb-4b7a-b040-345c9fbb210f.svg" alt="vscode" height="45px">
- <img src="https://dtffvb2501i0o.cloudfront.net/images/cbuilder/logos/CX_Logo_256x256px.webp" alt="c++_builder" height="45px">
+ <img src="https://user-images.githubusercontent.com/66707636/177422269-5848c9f4-60eb-4b7a-b040-345c9fbb210f.svg" alt="vscode" height="45px">&nbsp
+ <img src="https://dtffvb2501i0o.cloudfront.net/images/cbuilder/logos/CX_Logo_256x256px.webp" alt="c++_builder" height="45px">&nbsp
  <img src="https://user-images.githubusercontent.com/66707636/177422401-44f7f8aa-13dc-4966-b9c5-87673f0fafd3.svg" alt="git" height="45px">
  
 </p>
