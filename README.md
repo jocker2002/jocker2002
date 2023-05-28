@@ -6,7 +6,7 @@ These are skills that I am pretty good at or currently learning
 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="45px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="45px">
+<img src="[https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg](https://abrudz.github.io/logos/Python.svg)" alt="python" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177647886-ae898cdb-b7c8-410a-a341-7f978c1183fd.svg" alt="php" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177419055-26ba5165-81fe-44c4-9362-34358d0bc7c2.svg" alt="html" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177419068-409bc96f-3591-4dc9-805b-fb6ad567f982.svg" alt="css" width="45px">
