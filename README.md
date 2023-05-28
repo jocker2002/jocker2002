@@ -62,7 +62,7 @@ These are skills that I am pretty good at or currently learning
 
 
 
-[![Top Langs](https://github-readme-stats-hneels.vercel.app/api/top-langs/?username=hneels&layout=compact&langs_count=6&bg_color=00000000)](https://github.com/hneels/github-readme-stats)
+[![Top Langs](https://github-readme-stats-hneels.vercel.app/api/top-langs/?username=hneels&layout=compact&langs_count=6&bg_color=00000000)](https://github.com/jocker2002)
 
 <!--
 **jocker2002/jocker2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
