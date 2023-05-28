@@ -57,7 +57,9 @@ These are skills that I am pretty good at or currently learning
 
 <p>
  <img src="https://user-images.githubusercontent.com/66707636/177422269-5848c9f4-60eb-4b7a-b040-345c9fbb210f.svg" alt="vscode" height="45px">
+ <img src="https://dtffvb2501i0o.cloudfront.net/images/cbuilder/logos/CX_Logo_256x256px.webp" alt="c++_builder" height="45px">
  <img src="https://user-images.githubusercontent.com/66707636/177422401-44f7f8aa-13dc-4966-b9c5-87673f0fafd3.svg" alt="git" height="45px">
+ 
 </p>
 
 ## Statistics
