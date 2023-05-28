@@ -22,8 +22,8 @@ These are skills that I am pretty good at or currently learning
 <p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="45px">
  <img src="https://abrudz.github.io/logos/CPlusPlus.svg" alt="c++" width="45px">
+  <img src="https://abrudz.github.io/logos/PHP.svg" alt="php" width="45px">
  <img src="https://abrudz.github.io/logos/Python.svg" alt="python" width="45px">
- <img src="https://abrudz.github.io/logos/PHP.svg" alt="php" width="45px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="45px">
  <img src="https://user-images.githubusercontent.com/66707636/177419055-26ba5165-81fe-44c4-9362-34358d0bc7c2.svg" alt="html" width="45px">
  <img src="https://user-images.githubusercontent.com/66707636/177419068-409bc96f-3591-4dc9-805b-fb6ad567f982.svg" alt="css" width="45px">
@@ -40,7 +40,9 @@ These are skills that I am pretty good at or currently learning
 ### Databases
 
 <p>
- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/2880px-MySQL_logo.svg.png" alt="mysql" width="35px">
+ <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/2880px-MySQL_logo.svg.png" alt="mysql" width="45px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postresql" width="45px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2880px-SQLite370.svg.png" alt="sqlite" width="45px">
 </p>
 
 ### Libraries
@@ -54,7 +56,6 @@ These are skills that I am pretty good at or currently learning
 
 <p>
  <img src="https://user-images.githubusercontent.com/66707636/177422269-5848c9f4-60eb-4b7a-b040-345c9fbb210f.svg" alt="vscode" width="45px">
- <img src="https://user-images.githubusercontent.com/66707636/177422297-d7bf49ba-7610-423a-a7a0-9f2423f55d19.svg" alt="intellij" width="45px">
  <img src="https://user-images.githubusercontent.com/66707636/177422401-44f7f8aa-13dc-4966-b9c5-87673f0fafd3.svg" alt="git" width="45px">
 </p>
 
