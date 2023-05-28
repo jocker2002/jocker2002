@@ -1,4 +1,5 @@
 ## Hi there, I'm jocker2002 👋
+Welcome to my profile! 😄
 
 ## My projects
 
