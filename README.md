@@ -23,7 +23,7 @@ These are skills that I am pretty good at or currently learning
 <p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" height="45px">
  <img src="https://abrudz.github.io/logos/CPlusPlus.svg" alt="c++" height="45px">
- <img src="https://abrudz.github.io/logos/PHP.svg" alt="php" height="45px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg" alt="php" height="45px">
  <img src="https://abrudz.github.io/logos/Python.svg" alt="python" height="45px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" height="45px">
  <img src="https://user-images.githubusercontent.com/66707636/177419055-26ba5165-81fe-44c4-9362-34358d0bc7c2.svg" alt="html" height="45px">
