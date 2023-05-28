@@ -65,7 +65,7 @@ These are skills that I am pretty good at or currently learning
 
 ## Statistics
 
-![Jocker2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=jocker2002&show_icons=true&theme=default)
+![jocker2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=jocker2002&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocker2002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
