@@ -59,10 +59,9 @@ These are skills that I am pretty good at or currently learning
  <img src="https://user-images.githubusercontent.com/66707636/177422401-44f7f8aa-13dc-4966-b9c5-87673f0fafd3.svg" alt="git" height="45px">
 </p>
 
+## Statistics
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Jocker2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=jocker2002&show_icons=true&theme=default)
 
 <!--
 **jocker2002/jocker2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
