@@ -22,7 +22,7 @@ These are skills that I am pretty good at or currently learning
 <p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" height="45px">
  <img src="https://abrudz.github.io/logos/CPlusPlus.svg" alt="c++" height="45px">
-  <img src="https://abrudz.github.io/logos/PHP.svg" alt="php" height="45px">
+ <img src="https://abrudz.github.io/logos/PHP.svg" alt="php" height="45px">
  <img src="https://abrudz.github.io/logos/Python.svg" alt="python" height="45px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" height="45px">
  <img src="https://user-images.githubusercontent.com/66707636/177419055-26ba5165-81fe-44c4-9362-34358d0bc7c2.svg" alt="html" height="45px">
@@ -33,8 +33,8 @@ These are skills that I am pretty good at or currently learning
 ### Frameworks
 
 <p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" alt="laravel" height="45px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1920px-Flask_logo.svg.png" alt="flask" height="45px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" alt="laravel" height="45px">&nbsp
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1920px-Flask_logo.svg.png" alt="flask" height="45px">&nbsp
  <img src="https://user-images.githubusercontent.com/66707636/177422153-1291e476-a073-461c-b194-9ebc123fb90d.svg" alt="vue.js" height="45px">
 </p>
 
