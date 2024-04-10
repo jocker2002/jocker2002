@@ -6,10 +6,10 @@ Welcome to my profile! 😄
 My projects that I created completely by myself and that I'm proud of :)
 
 --- Tax Free Market --- <br>
-https://taxfree.market
+http://taxfreemarket.free.nf/
 
 --- Alfa Omega Motorshow --- <br>
-http://alfaomega-motorshow.000webhostapp.com/
+http://alphaomega-carsale.rf.gd/
 
 --- Metal Wiki --- <br>
 https://jocker2002.github.io/metalwiki/
